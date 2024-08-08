@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>サポートページ</title>
+</head>
+<body>
+    <h1>サポートページ</h1>
+    <p>アプリに関するサポートは以下の方法で受け付けています。</p>
+    <h2>サポート連絡先</h2>
+    <p>Email: support@example.com</p>
+    <p>電話番号: 123-456-7890</p>
+    <h2>よくある質問（FAQ）</h2>
+    <p>ここにFAQの内容を追加します。</p>
+    <h2>トラブルシューティング</h2>
+    <p>トラブルシューティングのガイドをここに追加します。</p>
+</body>
+</html>
